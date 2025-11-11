@@ -1,3 +1,4 @@
+
 # Hello Base – Counter dApp (sans terminal)
 
 Ce repo contient un **smart contract Counter** et une **interface web simple (HTML/JS)** pour interagir avec lui sur **Base Sepolia (testnet)**, sans outils de build.
